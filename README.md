@@ -1,2 +1,2 @@
 # TicTacToe1V
-Exersize for Flatiron School
+Exercise for Flatiron School
